@@ -1,0 +1,21 @@
+.center {
+  position: absolute;
+  width: auto;
+  height: 50px;
+  top: 50%;
+  left: 50%;
+  margin-left: -50px; /* margin is -0.5 * dimension */
+  margin-top: -25px;
+}
+
+ul {
+  margin: 50px;
+
+  list-style-type: none;
+  font-size: large;
+}
+
+li {
+  display: inline;
+  margin-right: 20px;
+}
