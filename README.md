@@ -1,3 +1,12 @@
+
+Need To Do:
+1. Build authentication
+2. Build search bar
+3. Create Backend (NodeJS or Firebase)
+4. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
