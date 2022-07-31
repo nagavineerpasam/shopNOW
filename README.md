@@ -1,5 +1,5 @@
 
-Deployement : https://shopusnow.herokuapp.com/
+Deployment : https://shopusnow.herokuapp.com/
 
 (Images are from various resources)
 
