@@ -1,5 +1,4 @@
 
-Deployment : https://shopusnow.herokuapp.com/
 
 (Images are from various resources)
 
